@@ -1,0 +1,28 @@
+Electronic toll collection (ETC) aims to eliminate the delay on expressway by collecting user fee electronically. 
+ETC determines whether the cars passing are enrolled in the program,
+electronically debits the accounts of registered car owners and open gates automatically without requiring them to stop.
+
+How ETC works:
+The ETC card is loaded with an IC chip that identifies the person paying tolls and records the data necessary to make payment on the toll. 
+These cards are issued by credit card companies. The ETC in-vehicle device is installed in the car.
+
+Advantages:
+Do not have to stay in long lines to pass through.
+
+Disadvantages:
+Bigger vehichles will get scanned first due to height issues which leaves them at a disadvantage ( will elaborate)
+
+https://mobility.tamu.edu/mip/strategies-pdfs/traffic-management/technical-summary/Electronic-Toll-Systems-4-Pg.pdf
+
+https://www.researchgate.net/publication/345807466_Study_of_operational_improvements_of_introducing_to_electronic_toll_collection_in_expressways_in_Sri_Lanka
+
+
+Features - Electronic toll collection systems rely on four major components: automated vehicle identification, 
+automated vehicle classification, transaction processing, and violation enforcement. 
+The four components are somewhat independent, and, in fact, some toll agencies have contracted out functions separately.
+Shortcomings - The disadvantage is that fully automatic recognition has a significant error rate, leading to billing errors. 
+Conversely, systems that incorporate a manual review stage have much lower error rates, but require a continuing staffing expense.
+Strengths - Electronic toll collection system is very fast and efficient mode for collection of toll charges at the toll plazas. 
+This saves a lot of time since vehicles passing through the toll plaza do not stop to pay toll and the payment automatically takes 
+place from the account of the vehicle.
+Two possible improvements - 

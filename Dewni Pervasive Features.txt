@@ -1,0 +1,6 @@
+Monthly Statistics - 
+Average of monthly statistics readings are sent to the agriculture department.
+The system is implemented in multiple locations. As an example one system is 
+implemented in Colombo, another one is in Galle, & another one is in Kegalle.
+Every monthly statistics are going in to the database of the agriculture 
+department. So from there they can get the data & compare monthly statistics.

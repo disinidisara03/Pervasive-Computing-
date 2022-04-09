@@ -1,0 +1,31 @@
+type of sensors.
+
+automatic water distribution will stop once its limits have exceeded. (actuator)
+
+automatically stop water flow and sends relevant data to the user to observe. 
+
+assumptions: farmer knows how to use phone. 
+
+sensor readings - disini 
+farmer notified - dilhani - all temp readings send to farmer after being sent to the inbuilt wifi module.
+monthly statistics - dewni (average readings are sent to the agriculture department). 
+automated system part - nilhan - are valves opening and closing. 
+sensor types - mujeeb 
+Humidity sensor 
+Temperature sensor 
+Soil moitzure sensor 
+Water level sensor / Water Quality sensor(Measures amount of water).
+
+
+wired and coupled to a wifi sensor where they send readings to the app. 
+eg :nodemcu - inbuilt wifi.
+
+assuming its in multiple locations, all statics are taken and sent to the agricutlure dept and dept can compare the stats and come to needed conclusions. 
+
+
+
+
+
+ 
+
+
